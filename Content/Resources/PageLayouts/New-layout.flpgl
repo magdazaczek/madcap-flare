@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundType="GradientSN" BackgroundColor="#ffffff" BackgroundColorAlt="#fffafa" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
+        <Frame X="-107px" Y="-65px" Width="747px" Height="60px" Flow="header" Right="-64px" Bottom="869px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-106px" Y="8px" Width="745px" Height="833px" Flow="body" Right="-63px" Bottom="23px" Anchors="" />
+        <Frame X="-109px" Y="889px" Width="748px" Height="47px" Flow="footer" Right="-63px" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;"><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundType="GradientSN" BackgroundColor="#ffffff" BackgroundColorAlt="#fffafa" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
+        <Frame X="79px" Y="-52px" Width="421px" Height="97px" Flow="decoration0" Right="76px" Bottom="819px" Anchors="" BackgroundImage="../freelancers-logo.png" BackgroundRepeat="no-repeat" />
+        <Frame X="-84px" Y="82px" Width="705px" Height="744px" Flow="body" Right="-45px" Bottom="38px" />
+    </Page>
+</PageStyles>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="New Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>digital nomad</Term>
+    </Terms>
+    <Definition
+      Link="">A person who travels and works remotely from various countries.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="New Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>remote</Term>
+    </Terms>
+    <Definition
+      Link="">home-based office</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="New Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>networking</Term>
+    </Terms>
+    <Definition
+      Link="">connecting with other professionals</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="New Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>YouTuber</Term>
+    </Terms>
+    <Definition
+      Link="">A person who makes money on recording videos on YouTube.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

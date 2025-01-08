@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Project/printed-cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/New-layout.flpgl" />
+  <TocEntry
+    Title="New world of work"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    Link="/Content/Project/new-world-of-work.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Remote working model"
+      Link="/Content/Project/remote.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Tips for remote workers"
+        Link="/Content/Project/tips.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Hybrid working model"
+      Link="/Content/Project/hybrid.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="4-day working week"
+      Link="/Content/Project/4-day-week.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="For freelancers"
+    Link="/Content/Project/freelance-gigs.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="For digital nomads"
+    Link="/Content/Project/digital-nomads.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="About artificial intelligence"
+    Link="/Content/Project/artificial-intelligence.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="How to network like a pro"
+    Link="/Content/Project/networking.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue" />
+</CatapultToc>

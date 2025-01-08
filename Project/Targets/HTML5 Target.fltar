@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[General.Image or General.Introduction], exclude[&quot;General.Audience A&quot; or &quot;General.Audience B&quot; or General.Definition]"
+  DefaultUrl="/Content/Home.htm"
+  SearchResultsSkin="/Project/Skins/SearchResults.flskn"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="true"
+  MasterToc="/Project/TOCs/New TOC.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations> </Destinations>
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/New Glossary.flglo" />
+  </Glossaries>
+</CatapultTarget>
