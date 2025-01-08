@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'digital nomad',c:0},{t:'networking',c:0},{t:'remote',c:0},{t:'YouTuber',c:0}]});

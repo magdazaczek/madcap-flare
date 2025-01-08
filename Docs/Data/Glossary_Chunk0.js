@@ -1,0 +1,1 @@
+define({'digital nomad':{d:'A person who travels and works remotely from various countries.',l:''},'networking':{d:'connecting with other professionals',l:''},'remote':{d:'home-based office',l:''},'YouTuber':{d:'A person who makes money on recording videos on YouTube.',l:''}});
